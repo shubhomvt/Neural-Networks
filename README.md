@@ -1,2 +1,2 @@
 # Practice-Neural-Networks
-Here i would be practicing building neural Networks on day today basis
+Here I would be practicing building neural Networks on day-today basis
